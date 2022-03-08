@@ -1,7 +1,4 @@
 <h1 align="left">Hi😄, I'm Ruan Carlos</h1>
-
-<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" align="center">
-
 <p align="left">
   Contato:
   <a href="https://www.linkedin.com/in/ruancarlosb/" target="_blank">
@@ -11,6 +8,9 @@
     <img align="center" src="https://img.shields.io/badge/-RuanCarlos-05122A?style=flat&logo=gmail" alt="gmail"/> 
   </a>
 </p>
+
+<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" align="center">
+
 
   <br>
 
