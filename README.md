@@ -1,4 +1,4 @@
-<h1 align="left">Hi😄, I'm Ruan Carlos</h1>
+<h1 align="left">Olá😄 Eu sou Ruan Carlos</h1>
 <p align="left">
   Contato:
   <a href="https://www.linkedin.com/in/ruancarlosb/" target="_blank">
